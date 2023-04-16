@@ -1,0 +1,41 @@
+body {
+  background-color: #48466d;
+  color: white;
+}
+
+hr {
+  background-color: #48466d;
+  border: none;
+  border-top: dotted 5px #ABEDD8;
+  height: 0;
+  width: 20%
+}
+
+h1, h3 {
+  color: #66bfbf;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:link {
+  color: #ABEDD8;
+}
+
+a:visited {
+  color: #F2E8CF;
+}
+
+a:focus {
+  color: #EA9A96;
+  outline: none;
+}
+
+a:hover {
+  color: #F9C449;
+}
+
+a:active {
+  color: #9C528B;
+}
